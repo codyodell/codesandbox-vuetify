@@ -1,2 +1,2 @@
-# codesandbox-vuetify
+# Vuetify-Templates
 Created with CodeSandbox
